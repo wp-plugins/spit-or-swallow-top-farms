@@ -5,7 +5,7 @@ Requires at least: 2.5
 Tested up to: 2.9+
 Stable tag: 0.01
 
-This plugin will create a sidebar widget with the top ten wine estates, as rated by the public on http://spitorswallow.co.za.
+This plugin will create a sidebar widget with the top ten South African wine estates, as rated by the public on http://spitorswallow.co.za.
 
 == Installation ==
 Unzip and drop in your wordpress plugin folder.
@@ -14,3 +14,4 @@ Unzip and drop in your wordpress plugin folder.
 This plugin will create a sidebar widget with the top ten wine estates, as rated by the public on http://spitorswallow.co.za.
 
 == screenshot==
+Example on http://winetimes.co.za/
